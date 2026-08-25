@@ -1,4 +1,9 @@
-# Tanmoy_Khan_Akash_Portfolio 
+<div align="center">
+	<h1><a>Tanmoy Khan Akash - Portfolio</a></h1>
+</div>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Tanmoy Khan Akash has a portfolio of purpose-driven projects showing clear thinking, strong craft, and real results. Explore the work.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
