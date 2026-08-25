@@ -20,8 +20,7 @@
 
 ### Usage
 
-The easiest way to use the program is to go to the [deployed website](tanmoy-khan-akash.github.io/Sliding_Puzzle_Solver
-/index.html).
+The easiest way to use the program is to go to the [deployed website](https://tanmoy-khan-akash.github.io/Sliding_Puzzle_Solver/index.html).
 
 This project uses [Zig 0.14](//ziglang.org/download/#release-0.14.0). Only the Zig compiler is required to build the project. Some additional tools that are useful for development:
 
