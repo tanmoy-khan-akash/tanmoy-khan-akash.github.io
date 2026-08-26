@@ -13,7 +13,7 @@ The AI achieved the 32768 tile in the browser version after just 5 attempts with
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Play Now
-Experience the AI in action directly in your browser: **[Play 2048 AI Online](https://ishandutta2007.github.io/2048-ai)**
+Experience the AI in action directly in your browser: **[Play 2048 AI Online](https://tanmoy-khan-akash.github.io/2048_AI_with_WebAssembly/index.html)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
