@@ -56,7 +56,7 @@ Some future improvements:
 
 ### Usage
 
-Go to the deployed website: **[Ultimate Tic-Tac-Toe](https://tanmoy-khan-akash.github.io/2048_AI_with_WebAssembly/index.html)**
+Go to the deployed website: **[Ultimate Tic-Tac-Toe](https://tanmoy-khan-akash.github.io/Ultimate_Tic-Tac-Toe_Game/index.html)**
 
 To run the application locally:
 
